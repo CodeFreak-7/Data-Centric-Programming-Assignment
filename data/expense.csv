@@ -1,0 +1,9 @@
+Transaction_ID,Transaction_Name,Date,Type,Category,Amount
+1,Three Ireland,1/10/2026,Online,Phone Bill,15.00
+2,Leap Card,4/10/2026,Online,Transport,10.00
+3,Leap Card,14/10/2026,Online,Transport,5.00
+4,Tesco,17/10/2026,Cash,Groceries,13.44
+5,Lidl,18/10/2026,Card,Groceries,5.16
+6,Leap Card,18/10/2026,Online,Transport,5.00
+7,Lidl,21/10/2026,Card,Groceries,9.97
+8,Leap Card,22/10/2026,Online,Transport,5
