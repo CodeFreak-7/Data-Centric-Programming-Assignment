@@ -6,4 +6,10 @@ Transaction_ID,Transaction_Name,Date,Type,Category,Amount
 5,Lidl,18/10/2026,Card,Groceries,5.16
 6,Leap Card,18/10/2026,Online,Transport,5.00
 7,Lidl,21/10/2026,Card,Groceries,9.97
-8,Leap Card,22/10/2026,Online,Transport,5
+8,Leap Card,22/10/2026,Online,Transport,5.00
+9,Hickey's Pharmacy,23/10/2026,Cash,Pharmacy,2.50
+10,Tesco,24/10/2026,Cash,Groceries,16.42
+11,Lidl Connect,24/10/2026,Card,Phone Bill,0.99
+12,Leap Card,24/10/2026,Online,Transport,5.00
+13,TKMaxx,25/10/2026,Cash,Clothing,51.98
+14,Lidl Connect,26/10/2026,Online,Phone Bill,12.99
