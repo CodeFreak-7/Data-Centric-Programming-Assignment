@@ -13,3 +13,4 @@ Transaction_ID,Transaction_Name,Date,Type,Category,Amount
 12,Leap Card,24/10/2026,Online,Transport,5.00
 13,TKMaxx,25/10/2026,Cash,Clothing,51.98
 14,Lidl Connect,26/10/2026,Online,Phone Bill,12.99
+15,Lidl,28/10/2026,Card,Groceries,17.02
