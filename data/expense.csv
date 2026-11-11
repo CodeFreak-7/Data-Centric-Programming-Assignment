@@ -19,3 +19,4 @@ Transaction_ID,Transaction_Name,Date,Type,Category,Amount
 18,Lidl,4/11/2026,Card,Groceries,5.67
 19,Leap Card,4/11/2026,Online,Transport,5.00
 20,Leap Card,9/11/2026,Online,Transport,5.00
+21,TUD Canteen,11/11/2026,Card,Food,8.00
